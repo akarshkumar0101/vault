@@ -34,6 +34,10 @@ Format: `- [ ] Task (due YYYY-MM-DD) [[link]]`, with subtasks indented underneat
 - [ ] **Start working on research again** (started 2026-11-17)
 	- [ ] SMT in-depth idea: get a good MNIST result
 	- [ ] Agentic Game of Life: launch a run with one agent across different worlds (tune prompts/configs later)
+		- [ ] Try out different worlds
+		- [ ] Prompt: be more active, take more actions in the world
+		- [ ] Prompt: don't ingest the whole board into one observation; use tools (e.g. Python) to parse it so it doesn't eat up the tokens
+		- [ ] Prompt: be more curious; keep discovering new artifacts (new spaceships and species of spaceships, Turing machines, other cool new stuff)
 - [ ] **ARC Prize collaboration** [[Greg Kamradt]] [[2026-11-16 Greg Kamradt]]
 	- [ ] Share Game of Life project updates with Greg as it nears release
 	- [ ] Explore turning the project into an ARC-AGI 4 benchmark input
