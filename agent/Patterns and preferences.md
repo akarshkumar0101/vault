@@ -7,7 +7,7 @@
 - Likes the scoring checklist as clickable checkboxes to tick off quickly. Use a multi-select question for the score (2026-11-16).
 
 ## Recurring patterns to watch
-- **Sleep drift:** as of 2026-11-16, sleep had drifted late for several days (1:50 AM bedtime → 11:30 AM wake). This is the habit that knocks down everything else.
+- **Sleep drift:** as of 2026-11-16, sleep had drifted late for several days (1:50 AM bedtime → 11:30 AM wake). This is the habit that knocks down everything else. Night of 11-16: asleep at 1:20 AM (Whoop) after being on the phone with the vault until ~12:45. Don't do vault/calendar work with me after midnight; capture it and do it in the morning.
 - **Mondays:** negotiations class (2–3 hrs, required for the minor). Plan Mondays around it.
 - **Gym:** reliable about going. Rest days are planned; score them as done.
 - **Food:** currently bulking. Missed or untracked meals are a real setback.
