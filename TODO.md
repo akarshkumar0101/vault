@@ -18,6 +18,7 @@ Format: `- [ ] Task (due YYYY-MM-DD) [[link]]`, with subtasks indented underneat
 - [x] **Reply to Jeff Clune's WhatsApp message** (2026-11-16) (quick; relevant to the Recursive AI option)
 	- [x] Accept his no on the split (no further asks now; carve-out comes at offer stage)
 	- [ ] Tell [[Alyosha Efros]] the joint Recursive + Berkeley arrangement is off
+- [ ] **Review the SMT rebuttal one last time**
 - [ ] **Reply to Sakana and Llion** (+ other admin)
 - [ ] **Finish setting up my infrastructure / get my life together**
 	- [x] Set up this Obsidian vault (2026-11-16)
