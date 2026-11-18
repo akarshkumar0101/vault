@@ -2,7 +2,7 @@
 tags: [person]
 org: MIT
 role: Professor; my PhD advisor
-last_contact: 
+last_contact: 2026-11-17
 ---
 
 # Phillip Isola
@@ -19,4 +19,4 @@ Advisor through my PhD.
 - [ ] 
 
 ## Log
-
+- 2026-11-17: Platonic Thickets meeting (with Kento, Shinjin, Sophie). Good discussion.

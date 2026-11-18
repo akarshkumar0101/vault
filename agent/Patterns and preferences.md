@@ -9,6 +9,8 @@
 ## Recurring patterns to watch
 - **Sleep drift:** as of 2026-11-16, sleep had drifted late for several days (1:50 AM bedtime → 11:30 AM wake). This is the habit that knocks down everything else. Night of 11-16: asleep at 1:20 AM (Whoop) after being on the phone with the vault until ~12:45. Don't do vault/calendar work with me after midnight; capture it and do it in the morning.
 - **Mondays:** negotiations class (2–3 hrs, required for the minor). Plan Mondays around it.
+- **Leaving the house fixes morning fatigue** (2026-11-17): felt lazy and tired at home, energetic once out. When I'm groggy, push me to leave rather than rest.
+- **Underestimating time:** "everything takes so much longer than you anticipate" (2026-11-17). Day TODOs overflow; keep them to 1–3 real items.
 - **Gym:** reliable about going. Rest days are planned; score them as done.
 - **Food:** currently bulking. Missed or untracked meals are a real setback.
 

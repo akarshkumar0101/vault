@@ -1,5 +1,5 @@
 ---
-updated: 2026-11-16
+updated: 2026-11-18
 ---
 
 # TODO
@@ -18,8 +18,7 @@ Format: `- [ ] Task (due YYYY-MM-DD) [[link]]`, with subtasks indented underneat
 - [x] **Reply to Jeff Clune's WhatsApp message** (2026-11-16) (quick; relevant to the Recursive AI option)
 	- [x] Accept his no on the split (no further asks now; carve-out comes at offer stage)
 	- [ ] Tell [[Alyosha Efros]] the joint Recursive + Berkeley arrangement is off
-- [ ] **Review the SMT rebuttal one last time**
-- [ ] **Reply to Sakana and Llion** (+ other admin)
+- [ ] **Reply to Sakana and Llion** (+ other admin) (ASAP, slipped on 11-17)
 - [ ] **Finish setting up my infrastructure / get my life together**
 	- [x] Set up this Obsidian vault (2026-11-16)
 	- [ ] Set up the agentic interface with Clariden (Swiss supercluster)
@@ -30,9 +29,11 @@ Format: `- [ ] Task (due YYYY-MM-DD) [[link]]`, with subtasks indented underneat
 	- [ ] Get offers
 
 ## Next
+- [ ] **Dentist: get the chipped tooth filled** (~2026-12-01, Dr. Shah). Book it if it isn't booked yet.
+- [ ] **Mentorship chat with the PhD student from Slack** (in a few days)
 <!-- queued up; start once something in Now finishes -->
 - [ ] **Start working on research again** (started 2026-11-17)
-	- [ ] SMT in-depth idea: get a good MNIST result
+	- [ ] SMT in-depth idea: working on MNIST + CIFAR (2026-11-17); next step TBD
 	- [ ] Agentic Game of Life: launch a run with one agent across different worlds (tune prompts/configs later)
 		- [ ] Try out different worlds
 		- [ ] Prompt: be more active, take more actions in the world
@@ -51,3 +52,5 @@ Format: `- [ ] Task (due YYYY-MM-DD) [[link]]`, with subtasks indented underneat
 <!-- recently finished, with completion date; clear out at the end of each block -->
 - [x] Set up the Obsidian vault (2026-11-16)
 - [x] Replied to Jeff Clune: accepted his no on the official split (2026-11-16)
+- [x] Reviewed the SMT rebuttal one last time (2026-11-17)
+- [x] SMT in-depth: method working on MNIST and CIFAR (2026-11-17)
